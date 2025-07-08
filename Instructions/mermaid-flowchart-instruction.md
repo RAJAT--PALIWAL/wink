@@ -1,6 +1,6 @@
 # 🧠 Mermaid Flowchart Generation Instruction
 
-This template provides a ready-to-use instruction for GitHub Copilot (or ChatGPT) to generate a **detailed Mermaid flowchart** for an API. Specifically designed for codebases where an OCR (Optical Character Recognition) API is implemented, this instruction guides Copilot to scan the logic and return a clean, styled visual flow.
+This template provides a ready-to-use instruction for GitHub Copilot (or ChatGPT) to generate a **detailed Mermaid flowchart** for an API. Specifically designed for codebases where an <<API_NAME>> API is implemented, this instruction guides Copilot to scan the logic and return a clean, styled visual flow.
 
 ---
 
