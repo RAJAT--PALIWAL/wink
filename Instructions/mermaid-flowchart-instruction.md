@@ -58,7 +58,6 @@ Generate a detailed Mermaid flowchart for OCRmyPDF by scanning the code and iden
 
 ### Output from Copilot or ChatGPT:
 
-```mermaid
 flowchart TD
     subgraph Input_Group[Input]
         direction TB
@@ -122,7 +121,7 @@ flowchart TD
     style N fill:#ffa500,stroke:#000,stroke-width:2px
     style O fill:#ffa500,stroke:#000,stroke-width:2px
 
-```
+
 ### Mermaid Flowchart:
 
 ![Mermaid flowchart showing OCRmyPDF processing steps, decision points, and error handling.](./OCRmyPDF_workflow_mermaid.png)
